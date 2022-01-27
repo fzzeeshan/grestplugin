@@ -8,15 +8,15 @@ package resources.templates.test.databuilder;
  *
  * User: AAFY
  * Date: 27/01/2022
- * Time: 12:08:06.943 AM
+ * Time: 12:16:12.112 AM
  */
 public class EmailsDataBuilder_Dlg {
 
     public static function create() : Emails{
         var _instance = new Emails()
 
-        _instance.address="Test address"
-        _instance.domain="Test domain"
+        _instance.address="Test zeeshanfiaz@gmail.com"
+        _instance.domain="Test Gmail"
 
 
         return _instance

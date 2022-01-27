@@ -15,7 +15,7 @@
     <file path="/fragment.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643229053193" ignored="false" />
     <file path="$PROJECT_DIR$/../gdata-builder/src/resources/properties/sample.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641067445369" ignored="false" />
     <file path="/sample.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641690368085" ignored="false" />
-    <file path="/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643242431289" ignored="false" />
+    <file path="/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643284514672" ignored="false" />
     <file path="/ClassModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641235308123" ignored="false" />
     <file path="$PROJECT_DIR$/../sample-pgm/src/com/zqodez/progz/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641080110814" ignored="false" />
     <file path="/config.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641234715667" ignored="false" />
@@ -23,7 +23,7 @@
     <file path="/PackageModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641155247331" ignored="false" />
     <file path="$PROJECT_DIR$/../sample-pgm/src/resources/templates/UsesModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641162092819" ignored="false" />
     <file path="/UsesModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641155389016" ignored="false" />
-    <file path="/Declarations.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641539210208" ignored="false" />
+    <file path="/Declarations.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643284669666" ignored="false" />
     <file path="/GClazzFileUtils.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641505092344" ignored="false" />
     <file path="$PROJECT_DIR$/../sample-pgm/src/com/zqodez/progz/test/config.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641191364212" ignored="false" />
     <file path="$PROJECT_DIR$/../sample-pgm/src/com/zqodez/progz/test/Address.gs" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641191405443" ignored="false" />
@@ -98,7 +98,7 @@
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/action/EntiyToGDataBuilderAction.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643234867101" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/vo/Entity.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/vo/ExceptionInfoVO.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
-    <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/util/EntityBuilderConstants.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/util/EntityBuilderConstants.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643283296293" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/handling/EntityException.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/vo/Field.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/entity/ConfigLoader.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220220983" ignored="false" />
@@ -111,6 +111,8 @@
     <file path="$PROJECT_DIR$/../gdata-builder/src/resources/templates/config.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643232464743" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/resources/templates/BuilderClassModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643234214424" ignored="false" />
     <file path="/BuilderBooleanPropertyModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643242440680" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/resources/templates/WithModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643282909014" ignored="false" />
+    <file path="/DeclarationsWOAnnotation.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643284691899" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +127,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <method_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/lang/Language.class" line="44" class="com.intellij.lang.Language" package="com.intellij.lang">
         <option name="WATCH_ENTRY" value="true" />
@@ -144,7 +147,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </method_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -190,35 +192,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JSON2GClazz.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java">
+      <file leaf-file-name="Declarations.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/Declarations.gtf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="141" selection-start="8019" selection-end="8019" vertical-scroll-proportion="0.0">
+            <state line="1" column="10" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StructureDefinitionVO.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/vo/StructureDefinitionVO.java">
+      <file leaf-file-name="DeclarationsWOAnnotation.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/DeclarationsWOAnnotation.gtf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="39" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/test/sample.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="40" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddressDataBuilder_Dlg.gs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/AddressDataBuilder_Dlg.gs">
+      <file leaf-file-name="GetModel.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/GetModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -226,8 +219,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailsDataBuilder_Dlg.gs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/EmailsDataBuilder_Dlg.gs">
+      <file leaf-file-name="HeaderModel.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/HeaderModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -235,10 +228,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RootDataBuilder_Dlg.gs" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/RootDataBuilder_Dlg.gs">
+      <file leaf-file-name="PackageModel.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/PackageModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetModel.gtf" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/SetModel.gtf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="9" selection-start="8" selection-end="8" vertical-scroll-proportion="0.021437578">
               <folding />
             </state>
           </provider>
@@ -253,19 +255,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuilderIntegerPropertyModel.gtf" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf">
+      <file leaf-file-name="ClassModel.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/ClassModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+            <state line="3" column="3" selection-start="9" selection-end="70" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuilderBooleanPropertyModel.gtf" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderBooleanPropertyModel.gtf">
+      <file leaf-file-name="BuilderIntegerPropertyModel.gtf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+            <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -297,8 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/util/GClazzConstants.java" />
-        <option value="$PROJECT_DIR$/src/resources/templates/PkgNHdrModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/PackageModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/SetModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/GetModel.gtf" />
@@ -309,10 +309,12 @@
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderObjectPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderClassModel.gtf" />
         <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/vo/StructureDefinitionVO.java" />
-        <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderStringPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderBooleanPropertyModel.gtf" />
+        <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java" />
+        <option value="$PROJECT_DIR$/src/resources/templates/Declarations.gtf" />
+        <option value="$PROJECT_DIR$/src/resources/templates/DeclarationsWOAnnotation.gtf" />
       </list>
     </option>
   </component>
@@ -430,6 +432,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -438,9 +441,102 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GRestPlugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -465,17 +561,17 @@
     <property name="options.lastSelected" value="preferences.sourceCode.General" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gdata-builder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -549,6 +645,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -574,19 +683,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -666,7 +762,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3447" y="-267" width="1734" height="1407" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7966373" order="3" side_tool="false" content_ui="tabs" />
@@ -676,16 +772,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32746196" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3492823" sideWeight="0.28903124" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32746196" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2458134" sideWeight="0.67253804" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2458134" sideWeight="0.67253804" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47465438" sideWeight="0.49969825" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298639" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32746196" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -755,46 +851,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/config.json">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/AddressDataBuilder_Dlg.gs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/ClassModel.gtf">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/EmailsDataBuilder_Dlg.gs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="9" selection-end="70" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/util/GClazzFileUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/RootDataBuilder_Dlg.gs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="16" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/DeclarationsWOAnnotation.gtf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/Declarations.gtf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderClassModel.gtf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/vo/StructureDefinitionVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
+        <state line="16" column="42" selection-start="357" selection-end="361" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="141" selection-start="8019" selection-end="8019" vertical-scroll-proportion="0.0">
+        <state line="173" column="62" selection-start="7882" selection-end="7882" vertical-scroll-proportion="-14.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderBooleanPropertyModel.gtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderClassModel.gtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -813,44 +914,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/ClassModel.gtf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="52" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+        <state line="3" column="3" selection-start="9" selection-end="70" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderBooleanPropertyModel.gtf">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/Declarations.gtf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
+        <state line="1" column="10" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/sample.json">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/DeclarationsWOAnnotation.gtf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="40" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/AddressDataBuilder_Dlg.gs">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/GetModel.gtf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/EmailsDataBuilder_Dlg.gs">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/HeaderModel.gtf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/templates/test/databuilder/RootDataBuilder_Dlg.gs">
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/PackageModel.gtf">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/templates/SetModel.gtf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="8" selection-end="8" vertical-scroll-proportion="0.021437578">
           <folding />
         </state>
       </provider>

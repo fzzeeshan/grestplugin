@@ -1,7 +1,7 @@
 package resources.templates.test.databuilder;
 
-usesresources.templates.test.Address
-usesresources.templates.test.Emails
+uses resources.templates.test.Address
+uses resources.templates.test.Emails
 
 
 /**
@@ -10,7 +10,7 @@ usesresources.templates.test.Emails
  *
  * User: AAFY
  * Date: 27/01/2022
- * Time: 12:08:06.943 AM
+ * Time: 12:16:12.109 AM
  */
 public class RootDataBuilder_Dlg {
 
@@ -18,11 +18,11 @@ public class RootDataBuilder_Dlg {
         var _instance = new Root()
 
         _instance.Skills=Skills.create()
-        _instance.id=100
-        _instance.area="Test area"
+        _instance.id=0
+        _instance.area="Test technology"
         _instance.Address=Address.create()
-        _instance.name="Test name"
-        _instance.active=false
+        _instance.name="Test "
+        _instance.active=true
         _instance.Emails=Emails.create()
 
 

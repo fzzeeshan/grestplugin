@@ -1,2 +1,2 @@
     @JsonProperty
-    private var <fieldName> : <dataType>
+    public var <fieldName> : <dataType>

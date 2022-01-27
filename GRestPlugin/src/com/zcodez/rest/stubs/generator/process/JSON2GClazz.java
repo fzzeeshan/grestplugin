@@ -151,6 +151,9 @@ public class JSON2GClazz {
 
                 String _clazzName = StringUtils.capitalize(entry.getKey());
 
+                _usesDataBuilder.append("uses " +$PACKAGE_NAME + "." +_clazzName);
+                _usesDataBuilder.append("\n");
+
                 for(StructureDefinitionVO _eachObject : _listOfStructureDefinitionVO){
                     _declarationsList.add(getInstance().generateDeclarations(_eachObject));
                     _propzMethodBuilder = isGettersRequired ?  getInstance().generateGetters(_eachObject) : _propzMethodBuilder;
