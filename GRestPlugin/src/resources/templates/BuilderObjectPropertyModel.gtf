@@ -1,1 +1,1 @@
-        _instance.<<propertyName>>=<<propertyName>>.create()
+        _instance.<<propertyName>>=<<propertyBuilderName>>.create()

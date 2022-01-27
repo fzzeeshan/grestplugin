@@ -175,7 +175,7 @@ public class JSON2GClazz {
                             _usesDataBuilder.append("\n");
                         }
                         String _dependetBuilderName = _dependentClazzName + "DataBuilder_Dlg";
-                        _propzDataBuilder.append(generateContent($BUILDER_OBJECT_TEMPLATE, _dependetBuilderName, _eachObject.getMethodValue()));
+                        _propzDataBuilder.append(generateContent($BUILDER_OBJECT_TEMPLATE, _eachObject.getMethodName(), _dependetBuilderName));
                         _propzDataBuilder.append("\n");
                     }
 
@@ -498,6 +498,7 @@ public class JSON2GClazz {
             //Read File Content
             _template = _template.replaceAll("<<propertyName>>", fieldName);
             _template = _template.replaceAll("<<propertyValue>>", _methodValue);
+            _template = _template.replaceAll("<<propertyBuilderName>>", _methodValue);
             _localBuilder.append(_template);
             //_localBuilder.append("\n");
         }catch(Exception e){

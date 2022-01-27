@@ -15,7 +15,7 @@
     <file path="/fragment.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643229053193" ignored="false" />
     <file path="$PROJECT_DIR$/../gdata-builder/src/resources/properties/sample.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641067445369" ignored="false" />
     <file path="/sample.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641690368085" ignored="false" />
-    <file path="/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643286199107" ignored="false" />
+    <file path="/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643288334588" ignored="false" />
     <file path="/ClassModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641235308123" ignored="false" />
     <file path="$PROJECT_DIR$/../sample-pgm/src/com/zqodez/progz/JSON2GClazz.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641080110814" ignored="false" />
     <file path="/config.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1641234715667" ignored="false" />
@@ -104,7 +104,7 @@
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/entity/ConfigLoader.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220220983" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/util/APIConstants.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643232457350" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/util/ExceptionHandlingUtils.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643220091224" ignored="false" />
-    <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/entity/EntityToGWDataBuilder.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643286313453" ignored="false" />
+    <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/entity/EntityToGWDataBuilder.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643287112696" ignored="false" />
     <file path="/EntiyToGDataBuilderAction.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643231806311" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/com/zcodez/auto/databuilder/vo/OutputDataVO.java" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643229297182" ignored="false" />
     <file path="$PROJECT_DIR$/../gdata-builder/src/resources/templates/output.json" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643232935278" ignored="false" />
@@ -113,6 +113,7 @@
     <file path="/BuilderBooleanPropertyModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643242440680" ignored="false" />
     <file path="$PROJECT_DIR$/../GWEntityDataBuilder/src/resources/templates/WithModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643282909014" ignored="false" />
     <file path="/DeclarationsWOAnnotation.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643284691899" ignored="false" />
+    <file path="/BuilderObjectPropertyModel.gtf" changelist="6e95c6e1-9cc4-4c67-9528-f6df7fa4b3f4" time="1643288318029" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +196,7 @@
       <file leaf-file-name="JSON2GClazz.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="41" selection-start="3988" selection-end="3988" vertical-scroll-proportion="0.6847682">
+            <state line="500" column="84" selection-start="22993" selection-end="23005" vertical-scroll-proportion="0.5576159">
               <folding />
             </state>
           </provider>
@@ -276,7 +277,7 @@
       <file leaf-file-name="BuilderObjectPropertyModel.gtf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderObjectPropertyModel.gtf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+            <state line="0" column="56" selection-start="37" selection-end="56" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -306,7 +307,6 @@
         <option value="$PROJECT_DIR$/src/resources/templates/test/Emails.gs" />
         <option value="$PROJECT_DIR$/src/resources/templates/test/config.json" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderPropertiesModel.gtf" />
-        <option value="$PROJECT_DIR$/src/resources/templates/BuilderObjectPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderClassModel.gtf" />
         <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/vo/StructureDefinitionVO.java" />
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderIntegerPropertyModel.gtf" />
@@ -314,6 +314,7 @@
         <option value="$PROJECT_DIR$/src/resources/templates/BuilderBooleanPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/Declarations.gtf" />
         <option value="$PROJECT_DIR$/src/resources/templates/DeclarationsWOAnnotation.gtf" />
+        <option value="$PROJECT_DIR$/src/resources/templates/BuilderObjectPropertyModel.gtf" />
         <option value="$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java" />
       </list>
     </option>
@@ -995,14 +996,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/templates/BuilderObjectPropertyModel.gtf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="8" vertical-scroll-proportion="0.0">
+        <state line="0" column="56" selection-start="37" selection-end="56" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zcodez/rest/stubs/generator/process/JSON2GClazz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="41" selection-start="3988" selection-end="3988" vertical-scroll-proportion="0.6847682">
+        <state line="500" column="84" selection-start="22993" selection-end="23005" vertical-scroll-proportion="0.5576159">
           <folding />
         </state>
       </provider>
