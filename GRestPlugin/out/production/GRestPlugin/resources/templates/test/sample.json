@@ -1,0 +1,21 @@
+{
+  "id":0,
+  "name": "",
+  "area": "technology",
+  "skills" : [ "java","javascript","sql" ],
+  "active":true,
+   "address": {
+      "city": "London",
+      "country": "UK"
+   },
+   "emails": [
+        {
+            "domain" : "Gmail",
+            "address" : "zeeshanfiaz@gmail.com"
+        },
+        {
+            "domain" : "outlook",
+            "address" : "zfiaz@outlook.com"
+        }
+   ]
+}

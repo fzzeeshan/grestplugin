@@ -1,0 +1,10 @@
+
+    /**
+      * Field <fieldName>_local
+      * get the value of property <fieldName>_local
+      */
+    @Param("<fieldName>", "Value to be get for <fieldName>")
+    public function get<methodName>() : <dataType>
+    {
+        return this.<fieldName>_local
+    }

@@ -1,0 +1,10 @@
+
+    /**
+      * Field <fieldName>_local
+      * Sets the value of <fieldName>_local
+      */
+    @Param("<fieldName>", "Value to be set for <fieldName>")
+    public function set<methodName>(_obj : <dataType>) : void
+    {
+        this.<fieldName>_local = _obj
+    }

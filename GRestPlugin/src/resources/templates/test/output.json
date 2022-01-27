@@ -1,0 +1,15 @@
+{
+  "erroredClasses" : [ ],
+  "generatedClasses" : [ "Address", "Emails", "Root" ],
+  "exceptionInfo" : [ {
+    "severity" : "INFO",
+    "code" : "101",
+    "shortName" : "Getters not configured",
+    "description" : "No getters property set in your configuration file. Configure 'getters-required' property as 'true' if you need getters methods to be generated."
+  }, {
+    "severity" : "INFO",
+    "code" : "101",
+    "shortName" : "Setters not configured",
+    "description" : "No setters property set in your configuration file. Configure 'setters-required' property as 'true' if you need setters methods to be generated."
+  } ]
+}

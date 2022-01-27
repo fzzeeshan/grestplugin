@@ -1,0 +1,23 @@
+package <<packageName>>;
+
+<<usesStatement>>
+
+/**
+ * <<jiraReference>> - <<jiraDescription>>
+ * Auto generated Data Builder Class
+ *
+ * User: <<authorName>>
+ * Date: <<today>>
+ * Time: <<time>>
+ */
+public class <<builderName>> {
+
+    public static function create() : <<className>>{
+        var _instance = new <<className>>()
+
+<<defaultProperties>>
+
+        return _instance
+    }
+
+}
