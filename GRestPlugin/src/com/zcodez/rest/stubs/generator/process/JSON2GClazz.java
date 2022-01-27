@@ -174,7 +174,8 @@ public class JSON2GClazz {
                             _usesDataBuilder.append("uses " +$PACKAGE_NAME + "." +_dependentClazzName);
                             _usesDataBuilder.append("\n");
                         }
-                        _propzDataBuilder.append(generateContent($BUILDER_OBJECT_TEMPLATE, _dependentClazzName, _eachObject.getMethodValue()));
+                        String _dependetBuilderName = _dependentClazzName + "DataBuilder_Dlg";
+                        _propzDataBuilder.append(generateContent($BUILDER_OBJECT_TEMPLATE, _dependetBuilderName, _eachObject.getMethodValue()));
                         _propzDataBuilder.append("\n");
                     }
 
